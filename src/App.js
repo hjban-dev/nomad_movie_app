@@ -16,7 +16,7 @@ class App extends React.Component{
 				{isLoading 
 					? (
 						<div className="loader">
-							<p className="loader__text">Loading...</p>	
+							<p className="loader__text">Loading... </p>
 							<p className="loader__text">Wait a minute please...</p>	
 						</div> 
 					)
