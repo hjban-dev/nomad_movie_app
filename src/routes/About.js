@@ -1,8 +1,7 @@
 import React from 'react';
 import './About.scss'
 
-function About(props){
-	console.log(props)
+function About(){
 	return (
 		<div className="about__container">
 			<span>
@@ -15,3 +14,5 @@ function About(props){
 }
 
 export default About;
+
+

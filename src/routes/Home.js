@@ -26,6 +26,7 @@ class Home extends React.Component{
 								return (
 									<Movie 
 										key = {movie.id} 
+										id = {movie.id} 
 										year = {movie.year} 
 										title = {movie.title} 
 										summary = {movie.summary} 
