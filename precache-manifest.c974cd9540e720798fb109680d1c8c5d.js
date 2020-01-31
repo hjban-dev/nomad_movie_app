@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2917ea2a23e71be4d71d3e94c6263a83",
+    "revision": "647f93e77a285ceb88a89e0aff918b1f",
     "url": "/nomad_movie_app/index.html"
   },
   {
-    "revision": "64c6d9ed9c9ab20c03f4",
+    "revision": "454d8279a414b290743b",
     "url": "/nomad_movie_app/static/css/main.cccee06b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nomad_movie_app/static/js/2.e56710c4.chunk.js.LICENSE"
   },
   {
-    "revision": "64c6d9ed9c9ab20c03f4",
-    "url": "/nomad_movie_app/static/js/main.6563897b.chunk.js"
+    "revision": "454d8279a414b290743b",
+    "url": "/nomad_movie_app/static/js/main.fe743b13.chunk.js"
   },
   {
     "revision": "c2e0260dc7bccd514b19",
