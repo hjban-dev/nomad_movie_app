@@ -4,11 +4,12 @@ import './About.scss'
 function About(){
 	return (
 		<div className="about__container">
-			<span>
-				“Freedom is the freedom to say that two plus two make four. If that is
-				granted, all else follows.”
-			</span>
-			<span>− George Orwell, 1984</span>
+			<h1>
+				Download YTS YIFY movies: HD smallest size
+			</h1>
+			<p>
+				Welcome to the official YTS.LT website. Here you will be able to browse and download YIFY movies in excellent 720p, 1080p and 3D quality, all at the smallest file size. Only here: YTS Movies Torrents.
+			</p>
 		</div>
 	)
 }

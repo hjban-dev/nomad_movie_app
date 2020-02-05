@@ -6,7 +6,7 @@ import './Movie.scss'
 function Movie({id, year, title, summary, poster, genres}){
 	return (
 		<Link to = {{
-			pathname : `/movie/${id}`,
+			pathname : `/movie-detail`,
 			state:{
 				year,
 				title,
