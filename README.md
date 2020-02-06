@@ -1,4 +1,4 @@
-# Nomad Movie app
+# Movie app
 
 React를 기반으로 만든 Movie-App입니다.  
 React JS Fundametals Course (2019 Update!) 
